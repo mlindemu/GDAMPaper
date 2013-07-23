@@ -14,11 +14,11 @@ NormalPos.top=26
 NormalPos.right=1066
 NormalPos.bottom=409
 Class=LaTeXView
-Document=..\OCEANS 2013 GDAM Paper\GDAM_abstract.tex
+Document=GDAM_glider_data.tex
 
 [Frame0_View0,0]
 TopLine=0
-Cursor=1805
+Cursor=27
 
 [Frame1]
 Flags=0
@@ -36,7 +36,7 @@ Document=GDAMPaper.tex
 
 [Frame1_View0,0]
 TopLine=400
-Cursor=16578
+Cursor=16652
 
 [SessionInfo]
 FrameCount=2
